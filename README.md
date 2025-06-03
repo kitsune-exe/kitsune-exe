@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ## Career
 
-* Junior Embedded System Engineer @ Arklab, May 2025 - current
+* Junior Embedded System Engineer @ Arklab, May 2025 - now
