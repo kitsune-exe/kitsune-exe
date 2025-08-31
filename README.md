@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ## Career
 
-* Junior Embedded System Engineer @ Arklab, May 2025 - now
+* Junior Embedded System Engineer @ Arklab, Chiayi County, Taiwan, May 2025
+
+* Junior Firmware Engineer @ Droxotech, Tainan City, Taiwan, Sep 2025 -
